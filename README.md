@@ -37,6 +37,12 @@
 
 ---
 
+## Read This!
+
+ For the people looking for it, The original source code is <a href="https://github.com/MehrsamMod/SMA-W1_Nexus/releases/tag/Original_Code">here</a>
+
+---
+
 ## Overview
 
 **NEXUS** is a front-end crisis management dashboard built for a simulated smart city in the Middle East — a city whose every artery, from traffic signals to power plants, is run by a single artificial intelligence, also named **NEXUS**.
